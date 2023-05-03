@@ -59,3 +59,7 @@ footer {
 footer p {
   margin-bottom: 10px;
 }
+
+button {
+  width: 300px;
+}
